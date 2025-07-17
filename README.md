@@ -44,10 +44,6 @@ git clone https://github.com/yasminabdalla/facerec_with_image.git
 cd facerec_with_image
 ```
 
-```
-
-## 🔧 Installation
-
 ### Prerequisites
 - Python 3.7+
 - Firebase account and project setup
